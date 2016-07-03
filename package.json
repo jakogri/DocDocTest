@@ -1,0 +1,7 @@
+{
+  "name": "docdoc_test",
+  "private": true,
+  "devDependencies": {
+    "selenium-webdriver": "~2.42.1"
+  }
+}
